@@ -10,8 +10,8 @@ From the open source framework for generative image inpainting task, with the su
 
 [CVPR 2018 Paper](https://arxiv.org/abs/1801.07892) | [ICCV 2019 Oral Paper](https://arxiv.org/abs/1806.03589) | [Project](http://jiahuiyu.com/deepfill) | [Demo](http://jiahuiyu.com/deepfill) | [YouTube v1](https://youtu.be/xz1ZvcdhgQ0) | [YouTube v2](https://youtu.be/uZkEi9Y2dj4) | [BibTex](#citing)
 
-<img src="/Examples/ex1/originalImg.jpg" width="33%"/> <img src="/Examples/ex1/inputimg.png" width="33%"/> <img src="/Examples/ex1/output_Mirroring_FineTuned.png" width="33%"/>
-<img src="/Examples/ex7/originalImg.jpg" width="33%"/> <img src="/Examples/ex7/input_img_Mirroring.png" width="33%"/> <img src="/Examples/ex7/output_Mirroring_FineTuned.png" width="33%"/>
+<img src="/Examples/ex1/originalImg.jpg" width="30%"/> <img src="/Examples/ex1/inputimg.png" width="30%"/> <img src="/Examples/ex1/output_Mirroring_FineTuned.png" width="36%"/>
+<img src="/Examples/ex7/originalImg.jpg" width="30%"/> <img src="/Examples/ex7/input_img_Mirroring.png" width="30%"/> <img src="/Examples/ex7/output_Mirroring_FineTuned.png" width="36%"/>
 
 
 ### Using updated DeepFill v2 code that is now using TensorFlow 2.  Also updated Neuralgym to TensorFlow 2: github.com/tiny-babies/neuralgym.
