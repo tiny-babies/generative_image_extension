@@ -21,7 +21,7 @@ The original source code is from https://github.com/JiahuiYu/generative_inpainti
 
 ## inpaint_ops.py
 
-- We changes the function for bbox2mask on line 126.  The original model generates a mask on a random area of the image.  We had to change this so that the mask that is generated will always be in the same position, which is right where the mirrored input starts (the extended region). 
+- We changed the function for bbox2mask on line 126.  The original model generates a mask on a random area of the image.  We had to change this so that the mask that is generated will always be in the same position, which is right where the mirrored input starts (the extended region). 
 
 ## preprocessing: createImage.py and preprocess_data.py
 
